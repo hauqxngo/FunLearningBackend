@@ -170,7 +170,7 @@ describe("PATCH /categories/:handle", function () {
   });
 
   test("unauth for anon", async function () {
-    const resp = await request(app).patch(`/cateogries/c1`).send({
+    const resp = await request(app).patch(`/categories/c1`).send({
       name: "C1-new",
     });
     expect(resp.statusCode).toEqual(401);
