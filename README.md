@@ -1,5 +1,5 @@
-# FunLearningBackend
-Backend API for FunLearning project, an application which helps toddlers learn basic things through familiar objects in pictures.
+# Fun Learning API
+Backend API for [Fun Learning](https://github.com/hauqxngo/FunLearning.git) project, an application which helps toddlers learn basic things through familiar objects in pictures.
 
 ## Technology Stack Used
 - Node.js
